@@ -1,0 +1,58 @@
+* {
+    padding-left: 70px 100px;
+    margin: 20 px;
+}
+.hea ul {
+    display: flex;
+    justify-content: end;
+    gap: 90px;
+    align-items: center;
+    padding: 30px;
+}
+.hea ul li {
+    list-style: none;
+    color: #000;
+    font-weight: 500;
+    font-size: 20px;
+}
+
+.make {
+    display: flex;
+    justify-content: space-between;
+    padding:  40px 200px;
+
+}
+
+.text h1 {
+    font-weight: 700;
+    font-size: 44px;
+    color: #21243D;
+}
+.text p {
+    font-weight: 400;
+    font-size: 16px;
+    color: #21243D;
+}
+.btn {
+    padding-left: 200px;
+    
+}
+.btn1 {
+    width: 210px;
+    height: 50px;
+    background-color: red;
+    color: white;
+    border-radius: 2 px;
+    border: none;
+    font-size: 20px;
+    font-weight: 500;
+}
+.qiyin {
+    width: ;
+}
+.qiyin ul {
+    display: flex;
+    justify-content: space-between;
+    list-style: none;
+}
+
