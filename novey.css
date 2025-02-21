@@ -1,20 +1,23 @@
 * {
-    padding-left: 70px 100px;
-    margin: 20 px;
+    padding: 0;
+    margin: 0;
+  
 }
-.hea ul {
+.href {
     display: flex;
     justify-content: end;
     gap: 90px;
     align-items: center;
     padding: 30px;
 }
-.hea ul li {
-    list-style: none;
-    color: #000;
+.href a {
+    text-decoration: none;
     font-weight: 500;
     font-size: 20px;
+    color: #000;
 }
+
+
 
 .make {
     display: flex;
@@ -27,16 +30,17 @@
     font-weight: 700;
     font-size: 44px;
     color: #21243D;
+    margin-bottom: 20px;
+    
 }
 .text p {
     font-weight: 400;
+    margin-bottom: 20px;
     font-size: 16px;
     color: #21243D;
+
 }
-.btn {
-    padding-left: 200px;
-    
-}
+
 .btn1 {
     width: 210px;
     height: 50px;
@@ -47,12 +51,192 @@
     font-size: 20px;
     font-weight: 500;
 }
-.qiyin {
-    width: ;
+
+.box {
+background-color: aliceblue;
+width: 1250px;
+height: 400px;
+
 }
-.qiyin ul {
+
+.bxxx {
+   display: flex;
+   justify-content: space-between;
+   align-items: center;
+   margin: 50px 200px;
+   padding-top: 20px;
+}
+.bxxx p {
+    font-weight: 400;
+    font-size: 22px;
+}
+.bxxx a {
+    font-weight: 400;
+    font-size: 16px;
+    text-decoration: none;
+}
+.shshsh {
+   display: flex;
+   justify-content: space-between;
+   gap: 20px;
+   align-items: center;
+   margin: 50px 200px;
+   
+}
+.btbt1 h2 {
+    display: flex;
+    font-weight: 700;
+    font-size: 26px;
+    color:#21243D;
+}
+.btbt1 p {
+  display: inline-block;
+  margin: 20px;
+  font-weight: 400;
+  font-size: 18px;
+}
+.btbt1 {
+    font-weight: 400;
+    font-size: 16px;
+    width: 420px;
+    height: 295px;
+    padding: 20px;
+    
+}
+.btbt2 h2 {
+    display: flex;
+    font-weight: 700;
+    font-size: 26px;
+    color:#21243D;
+}
+.btbt2 p {
+  display: inline-block;
+  font-weight: 400;
+  font-size: 18px;
+  margin: 20px;
+}
+.btbt2 {
+    font-weight: 400;
+    font-size: 16px;
+    width: 420px;
+    height: 295px;
+    padding: 20px;
+}
+.oxox {
+   display: flex;
+   justify-content: space-between;
+   align-items: center;
+   margin: 50px 200px;
+   padding-top: 20px;
+}
+.xyxyxy{
+    display: flex;
+    align-items: center;
+    margin-top: 30px;
+    font-size: 20px;
+    font-weight: 400;
+    color: #8695A4;
+    
+}
+.kerak p {
+    margin-top: 20px;
+}
+.oreo {
+    margin-right: 30px;
+    color: white;
+    width: 62px;
+    height: 25px;
+    background-color: #142850;
+    border-radius: 16px;
+    border: none;
+    font-weight: 900;
+    font-size: 18px;
+}
+.ggggg {
+    margin: 30px 200px;
+    font-weight: 400;
+    font-size: 22px;
+}
+.oxox1 {
     display: flex;
     justify-content: space-between;
-    list-style: none;
-}
+    align-items: center;
+    margin: 50px 200px;
+    padding-top: 20px;
+ }
+ .xyxyxy1{
+     display: flex;
+     align-items: center;
+     margin-top: 30px;
+     font-size: 20px;
+     font-weight: 400;
+     color: #8695A4;
+     
+ }
+ .kerak1 p {
+     margin-top: 20px;
+ }
+ .oreo1 {
+     margin-right: 30px;
+     color: white;
+     width: 62px;
+     height: 25px;
+     background-color: #142850;
+     border-radius: 16px;
+     border: none;
+     font-weight: 900;
+     font-size: 18px;
+ }
+
+ .oxox2 {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 50px 200px;
+    padding-top: 20px;
+ }
+ .xyxyxy2{
+     display: flex;
+     align-items: center;
+     margin-top: 30px;
+     font-size: 20px;
+     font-weight: 400;
+     color: #8695A4;
+     
+ }
+ .kerak2 p {
+     margin-top: 20px;
+ }
+ .oreo2 {
+     margin-right: 30px;
+     color: white;
+     width: 62px;
+     height: 25px;
+     background-color: #142850;
+     border-radius: 16px;
+     border: none;
+     font-weight: 900;
+     font-size: 18px;
+ }
+ .icon {
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+    margin-top: 150px;
+    
+ }
+ .icon i {
+    font-size: 30px;
+    color: #21243D;
+   
+ }
+ .list {
+    display: flex;
+    justify-content: center;
+    font-weight: 400;
+    font-size: 14px;
+    margin: 20px 0;
+ }
+
+ 
 

@@ -1,0 +1,77 @@
+* {
+    padding: 0;
+    margin: 0;
+  
+}
+.href {
+    display: flex;
+    justify-content: end;
+    gap: 90px;
+    align-items: center;
+    padding: 30px;
+}
+.href a {
+    text-decoration: none;
+    font-weight: 500;
+    font-size: 20px;
+    color: #000;
+}
+.href a span {
+    color: #FF6464;
+}
+
+
+
+.blog {
+    margin: 50px 200px;
+    color: #21243D;
+    font-weight: 700;
+    font-size: 44px;
+ }
+
+ .ferry {
+    margin: 50px 200px;
+    font-weight: 500;
+    font-size: 30px;
+    color: #21243D;
+ }
+ .java {
+    display: flex;
+    gap: 20px;
+    align-items: center;
+    margin-top: 20px;
+    font-weight: 400;
+    font-size: 20px;
+    color: #21243D;
+ }
+ .rang {
+    color: #8695A4;
+    font-weight: 400;
+    font-size: 20px;
+ }
+ .gap {
+    margin-top: 20px;
+    font-weight: 400;
+    font-size: 16px;
+    color: #21243D;
+ }
+
+ .icon {
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+    margin-top: 150px;
+    
+ }
+ .icon i {
+    font-size: 30px;
+    color: #21243D;
+   
+ }
+ .list {
+    display: flex;
+    justify-content: center;
+    font-weight: 400;
+    font-size: 14px;
+    margin: 20px 0;
+ }
